@@ -23,4 +23,4 @@
 //讨论认为，以上因素对传统能源与新能源均有影响，只是系数不同的问题
 ```
 ******
-![To Be Continued](https://cn.bing.com/th?id=OIP.ecm7XBetVinxiqCPmv9WEAHaFT&pid=Api&rs=1 "BGM: Roundabout-Yes")
+![To Be Continued](https://ih0.redbubble.net/image.327317208.6141/flat,550x550,075,f.jpg "BGM: Roundabout-Yes")
