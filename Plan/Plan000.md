@@ -11,3 +11,16 @@
     - 科技
     > 利用产业结构量化科技？
     - 地理位置
+
+# ***2020.01.08.12:00***
+**商定使用的影响因素：**
+- GDP
+- 油价
+- 人口
+- 科技
+- 地理位置  
+```C++
+//讨论认为，以上因素对传统能源与新能源均有影响，只是系数不同的问题
+```
+******
+![To Be Continued](https://cn.bing.com/th?id=OIP.ecm7XBetVinxiqCPmv9WEAHaFT&pid=Api&rs=1 "BGM: Roundabout-Yes")
